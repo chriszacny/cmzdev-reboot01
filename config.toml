@@ -1,0 +1,4 @@
+baseURL = "https://www.cmz.dev/"
+languageCode = "en-us"
+title = "Chris Zacny's Site"
+theme = "tale"
