@@ -4,8 +4,11 @@
     {{ partial "index/introduction.html" . }}
 
     <div class="catalogue">
-        {{ range (.Paginate .Site.RegularPages).Pages }} {{ if not (isset
-        .Params "isstaticpage") }} {{ .Render "summary" }} {{end}} {{ end }}
+        {{ range (.Paginate .Site.RegularPages).Pages }} 
+            {{ if not (isset .Params "nodisplaysummary") }} 
+                {{ .Render "summary" }} 
+            {{end}} 
+        {{ end }}
     </div>
 
     <div class="pagination">

@@ -14,10 +14,15 @@ hugo server -D
 
 # Notes
 
-I had to add a custom front matter variable trick / hack to content/about.md and content/resume.md - isStaticPage. There is an overridden index.html in layouts that checks for the isStaticPage front matter variable. If it is "not" set in front matter, show it in the summary (i.e. we don't want to show the about or resume pages in the summary, which is why I did this). 
+I had to add a custom front matter variable trick / hack to content/about.md and content/resume.md - nodisplaysummary. There is an overridden index.html in layouts that checks for the nodisplaysummary front matter variable. If it is "not" set in front matter, show it in the summary (i.e. we don't want to show the about or resume pages in the summary, which is why I did this). 
 
-Similarly the "layout" front matter variable in about.md and resume.md instruct hugo to look in layouts/_default/about.html and layouts/_default/resume.html, respectively for those pages since they are custom.
+Somewhat related - the "layout" front matter variable in resume.md instruct hugo to look in layouts/_default/resume.html, respectively for that page since it is custom.
 
 # TODO
 
-Actually for about.html, just switch back to normal md, but don't show it in the summary.
+* Examine and utilize front matter / config items
+* Figure out tags and categories
+* Make sure images work
+* Get resume created
+* Fill out about page
+* write some more posts ;-)

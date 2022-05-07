@@ -1,5 +1,5 @@
 ---
 title: "Resume"
 layout: resume
-isStaticPage: true
+nodisplaysummary: true
 ---
