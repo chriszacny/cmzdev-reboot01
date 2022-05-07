@@ -2,6 +2,8 @@
 
 * Golang
 * Hugo
+* Google Cloud SDK Installed (gcloud, gsutil) - https://cloud.google.com/sdk/docs/install-sdk
+    * After install: https://cloud.google.com/sdk/docs/initializing
 
 # Clone and setup
 
@@ -11,6 +13,18 @@ git submodule init
 git submodule update
 hugo server -D
 ```
+
+# Manual Deployment Steps for Now
+
+## Hosting Instructions
+
+* https://cloud.google.com/storage/docs/hosting-static-website
+    * This has to be done manually for now, eventually write Terraform for it
+
+## Steps
+
+* Run `./deploysite.sh`
+
 
 # Notes
 
@@ -26,3 +40,4 @@ Somewhat related - the "layout" front matter variable in resume.md instruct hugo
 * Get resume created
 * Fill out about page
 * write some more posts ;-)
+* Create Terraform for GCP infrastructure
