@@ -34,10 +34,12 @@ Somewhat related - the "layout" front matter variable in resume.md instruct hugo
 
 # TODO
 
-* Examine and utilize front matter / config items
-* Figure out tags and categories
-* Make sure images work
+## Near term
+
 * Get resume created
 * Fill out about page
 * write some more posts ;-)
+
+## Longer term
+
 * Create Terraform for GCP infrastructure
