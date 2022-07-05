@@ -10,4 +10,4 @@ source .env
 # wait until they are deleted
 
 # upload contents of ./public to gs://$BUCKET_NAME
-gsutil rsync -R ./public/ gs://$BUCKET_NAME
+# gsutil rsync -R ./public/ gs://$BUCKET_NAME

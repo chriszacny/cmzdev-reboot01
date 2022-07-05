@@ -1,6 +1,6 @@
 baseURL = "https://www.cmz.dev/"
 languageCode = "en-us"
-title = "Chris Zacny's Site"
+title = "Chris Zacny | Software Engineer"
 theme = "tale"
 
 [author]
