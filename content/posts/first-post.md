@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Site!"
+title: "First Post"
 date: 2022-05-06T08:00:00-08:00
 author: Chris
 tags:
