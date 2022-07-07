@@ -6,7 +6,7 @@ tags:
   - 'road-trip'
   - 'travel'
   - 'prelude'
-draft: true
+draft: false
 ---
 
 One of my favorite novels I've read is J.L. Carr's "A Month in the Country." It depicts a month-long snapshot of a man's life, set in a country village in the UK. 

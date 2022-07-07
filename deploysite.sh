@@ -6,6 +6,7 @@ source .env
 # log into gcloud using credentials
 
 # delete gs://$BUCKET_NAME/*
+## Log into GCP to do this. Do not delete the bucket itself!!
 
 # wait until they are deleted
 
