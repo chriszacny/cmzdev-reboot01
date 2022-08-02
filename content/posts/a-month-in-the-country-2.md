@@ -12,7 +12,7 @@ draft: false
 
 ![Overview](/static/img/mitc2-1.jpg)
 
-[In June and July of 2022](https://www.cmz.dev/posts/a-month-in-the-country-1/), my family and I traveled across the country from Washington State to the Midwest US in roughly one week. Our goal with the trip was to get across the country to see our family; not necessarily for scenic driving, so we drove primarily on interstate highways; I-90, mostly. You might imagine that this would equate to boring driving, and you would mostly be correct! 
+[In the Summer of 2022](https://www.cmz.dev/posts/a-month-in-the-country-1/), my family and I traveled across the United States from Washington State to the Midwest. Our goal with the trip was to get across the country to see our family; not necessarily for scenic driving, so we drove primarily on interstate highways; I-90, mostly. You might imagine that this would equate to boring driving, and you would mostly be correct! 
 
 __Pro-tip:__ if you want a scenic, leisurely road trip, and you have plenty of time to stop at destinations, then pull out the [Rand McNally Road Atlas - Adventure Edition](https://www.amazon.com/National-Geographic-Road-Atlas-Adventure/dp/0792289897), and plot a course that follows scenic US and state highways (which are almost never interstates).
 
@@ -44,7 +44,7 @@ Speaking of trails, notice the giant 'M' in the photo above. This is a thing in 
 
 Given there was a trail leading from our hotel right to the 'M;, [naturally, I had to run up to it](https://www.alltrails.com/trail/us/montana/the-m-trail--2)! 
 
-Here is the proof (__Please pardon my exhausted-looking expression!__ ):
+Here is the proof (__Please pardon my sweat-soaked shirt and exhausted-looking expression!__ ):
 
 ![The M](/static/img/mitc2-4.jpg)
 
