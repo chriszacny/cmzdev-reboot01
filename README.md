@@ -36,6 +36,9 @@ Somewhat related - the "layout" front matter variable in resume.md instruct hugo
 
 ## Near term
 
+* Minify font awesome
+* Move custom intro css to its own css file
+* Add js loader to config.toml (see overriden layouts/partials/head.html and do what the css is doing) and remove direct load of font awesome
 * Get resume created
 * Fill out about page
 * write some more posts ;-)
