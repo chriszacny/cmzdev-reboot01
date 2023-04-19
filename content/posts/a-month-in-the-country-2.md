@@ -44,10 +44,6 @@ Speaking of trails, notice the giant 'M' in the photo above. This is a thing in 
 
 Given there was a trail leading from our hotel right to the 'M;, [naturally, I had to run up to it](https://www.alltrails.com/trail/us/montana/the-m-trail--2)! 
 
-Here is the proof (__Please pardon my sweat-soaked shirt and exhausted-looking expression!__ ):
-
-![The M](/static/img/mitc2-4.jpg)
-
 I'm not going to lie; running from the center of town up to the 'M' was no joke. It was a roughly 600 ft climb in elevation, and really will get your heart pumping. However, the grade is gradual, and it was very runnable, so before I knew it, I was at the M. Here's a nice dedication at the trailhead:
 
 ![M Trailhead](/static/img/mitc2-5.jpg)

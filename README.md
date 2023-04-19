@@ -8,7 +8,7 @@
 # Clone and setup
 
 ```
-git clone ...
+git clone <repo url>
 git submodule init
 git submodule update
 hugo server -D
